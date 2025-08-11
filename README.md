@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fatima Ashfaq</h1>
+<h3 align="center">🚀 BSCS Student | 🤖 AI & Data Science Enthusiast | 📊 Turning Data into Insights</h3>
 
-<!--
-**fatima12169/fatima12169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me  
+- 🎓 BSCS Student @iqra university airport campus , karachi 
+- 💻 Interested in **AI, Machine Learning, and Data Science**  
+- 📊 Love working with **Python, Pandas, Scikit-learn, TensorFlow**  
+- 🌱 Currently learning **Deep Learning & Data Visualization**  
+- 📬 **Open to Internships & Collaboration Opportunities**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills  
+**Languages & Tools:**  
+Python | Pandas | NumPy | Scikit-learn | TensorFlow | Matplotlib | Seaborn | SQL | HTML | CSS | C++  
+
+---
+
+### 📂 Featured Projects  
+- [CodeAlpha - Iris Flower Classification](#)  
+- [Unemployment Analysis with Python](#)  
+- [Hotel Management System in C++](#)  
+- [Fashion Brand Website (HTML & CSS)](#)  
+
+---
+
+### 📫 Connect with Me  
+- **LinkedIn:** www.linkedin.com/in/fatima-ashfaq-256978357  
+- **Email:** fatimamuhammadashfaq89@gmail.com
+- **Phone Number:** 03104660992  
+
+---
+
+<p align="center">💡 *Always learning, always building, always growing!* 💡</p>
